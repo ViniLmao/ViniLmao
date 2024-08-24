@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oi Oi ✌️👋
 - 🔭 Sou estudante de Programação
 - ⚡ Faço alguns projetos em Javascript
 - 🌱 Me interesso principalmente em front-end
