@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 Sou estudante de Programação, focado em c# 0
+- ⚡ faço alguns projetos em Javascript
+- 🌱 Me interesso principalmente em front-end
+- Se quiser conversar, meu email de contato é vinicaruccio114@gmail.com
 <!--
 **ViniLmao/ViniLmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
