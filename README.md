@@ -6,8 +6,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/59/d0/a5/59d0a5b6bd7acb21f9e5254a738b9f52.jpg"  />
-
 ###
 
 <div align="center">
