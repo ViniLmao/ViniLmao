@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/vinicius-caruccio-2002732b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
   </a>
-  <a href="Discordapp.com/users/408343297682046977" target="_blank">
+  <a href="discord.com/users/408343297682046977" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="discord logo"  />
   </a>
   <a href="https://youtube.com/@kekwvini?si=f1pneEdH0c508Lww" target="_blank">
