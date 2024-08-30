@@ -42,7 +42,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ViniLmao/ViniLmao/output/snake.svg" alt="Snake animation" />
-
 ###
